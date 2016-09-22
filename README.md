@@ -1,3 +1,3 @@
 # hello-world
-test repsitory
+test repository
 Checking how to edit files
